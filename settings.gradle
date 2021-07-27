@@ -1,0 +1,3 @@
+include ':FlickerAPI'
+include ':app'
+rootProject.name = "Dunzo-Assignment (Jerin Sebastian)"

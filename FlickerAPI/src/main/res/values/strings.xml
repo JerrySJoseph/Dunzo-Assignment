@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_key">062a6c0c49e4de1d78497d13a7dbb360</string>
+    <string name="api_method">flickr.photos.search</string>
+    <string name="api_format">json</string>
+    <string name="api_no_json_callback">1</string>
+</resources>
